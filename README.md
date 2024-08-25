@@ -1,3 +1,28 @@
+# Proyecto
+
+Este proyecto es una aplicación que realiza una busqueda a una API [aquí](./path/to/travel.json).
+
+![Ejemplo de uso](./public/muestra.png)
+
+## Funcionamiento
+
+Para buscar un lugar, debes teclear 'beaches' en el buscador que está en la sección del navbar para mostrar la información de la API.
+
+## Instalación
+
+Para instalar este proyecto, sigue los siguientes pasos:
+
+1. Clona el repositorio: `git clone [URL del repositorio]`
+2. Navega al directorio del proyecto: `cd [directorio del proyecto]`
+3. Instala las dependencias: `npm install`
+
+## Uso
+
+Para utilizar este proyecto, sigue los siguientes pasos:
+
+1. Ejecuta la aplicación: `npm start`
+2. [Describe los pasos necesarios para utilizar la funcionalidad del proyecto]
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
