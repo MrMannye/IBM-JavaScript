@@ -1,6 +1,6 @@
 # Proyecto
 
-Este proyecto es una aplicación que realiza una busqueda a una API [aquí](./path/to/travel.json).
+Este proyecto es una aplicación que realiza una busqueda a una API [aquí](./travel.json).
 
 ![Ejemplo de uso](./public/muestra.png)
 
